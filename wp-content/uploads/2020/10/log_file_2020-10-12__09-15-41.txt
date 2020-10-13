@@ -1,0 +1,57 @@
+
+---Downloaded files---
+The import files for: Agency were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/roti
+Data file = C:\xampp\htdocs\roti\wp-content\plugins\airi-demo-importer/demo-content/airi-dc-agency.xml
+Widget file = C:\xampp\htdocs\roti\wp-content\plugins\airi-demo-importer/demo-content/airi-w-agency.wie
+Customizer file = C:\xampp\htdocs\roti\wp-content\plugins\airi-demo-importer/demo-content/airi-c-agency.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Bilah sisi : 
+
+Cari - No Title - Widget already exists
+Pos-pos Terbaru - No Title - Widget already exists
+Komentar Terbaru - No Title - Widget already exists
+Arsip - No Title - Widget already exists
+Kategori - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Footer1 : 
+
+Teks - No Title - Imported
+
+Footer2 : 
+
+Teks - Contact us - Imported
+
+Footer3 : 
+
+Menu Navigasi - Quick links - Imported
+
+Footer4 : 
+
+Airi: Profil Sosial - Follow us - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
